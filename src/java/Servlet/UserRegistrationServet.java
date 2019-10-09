@@ -78,9 +78,6 @@ public class UserRegistrationServet extends HttpServlet {
             e.printStackTrace();  
          
         }  
-//          
-//           catch(Exception ex){
-//            ex.printStackTrace();
         }
     
 
